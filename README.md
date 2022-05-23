@@ -10,4 +10,5 @@ To create new reposity from it
 3. git init
 4. git add .
 5. git commit -m "initial commit"
-6. git -u push origin main *repo url*
+6. git branch -M main
+7. git -u push origin main *repo url*
